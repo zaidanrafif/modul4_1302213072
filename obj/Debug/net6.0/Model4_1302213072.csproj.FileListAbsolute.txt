@@ -1,0 +1,15 @@
+E:\Model4_1302213072\modul4_1302213072\bin\Debug\net6.0\Model4_1302213072.exe
+E:\Model4_1302213072\modul4_1302213072\bin\Debug\net6.0\Model4_1302213072.deps.json
+E:\Model4_1302213072\modul4_1302213072\bin\Debug\net6.0\Model4_1302213072.runtimeconfig.json
+E:\Model4_1302213072\modul4_1302213072\bin\Debug\net6.0\Model4_1302213072.dll
+E:\Model4_1302213072\modul4_1302213072\bin\Debug\net6.0\Model4_1302213072.pdb
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.csproj.AssemblyReference.cache
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.GeneratedMSBuildEditorConfig.editorconfig
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.AssemblyInfoInputs.cache
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.AssemblyInfo.cs
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.csproj.CoreCompileInputs.cache
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.dll
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\refint\Model4_1302213072.dll
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.pdb
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\Model4_1302213072.genruntimeconfig.cache
+E:\Model4_1302213072\modul4_1302213072\obj\Debug\net6.0\ref\Model4_1302213072.dll
