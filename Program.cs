@@ -8,8 +8,61 @@
         return KodeBuah[(int)Buah];
     }
 
-    public static void Main()
+    public class PosisiKarakterGame
     {
-        Console.WriteLine("Nama Buah" + KodeBuah.namaBuah.Pisang + " Kode Buah " + KodeBuah.getKodeBuah(KodeBuah.namaBuah.Pisang));
+        public enum State
+        {
+            Tengkurap, Jongkok, Berdiri, Terbang
+        }
+
+
+        public static void Main()
+        {
+            Console.WriteLine("Nama Buah" + KodeBuah.namaBuah.Pisang + " Kode Buah " + KodeBuah.getKodeBuah(KodeBuah.namaBuah.Pisang));
+
+            State Kondisi = State.Tengkurap;
+            Console.WriteLine("kondisi sekarang sedang : " + Kondisi);
+            string Perintah;
+            while (Kondisi == State.Tengkurap)
+            {
+                Perintah = Console.ReadLine();
+                if (Perintah == "Tombol W")
+                {
+                    Kondisi = State.Berdiri;
+                    Console.WriteLine("Kondisi sekarang sedang : " + Kondisi);
+                    while(Kondisi == State.Berdiri)
+                    {
+                        Perintah = Console.ReadLine();
+                    if (Perintah == "Tombol W")
+                        {
+                            Kondisi = State.Terbang;
+                            Console.WriteLine("kondisi sekarang sedang : " + Kondisi);
+                          
+                            while (Kondisi == State.Terbang)
+                            {
+                                Perintah = Console.ReadLine();
+                                if(Perintah == "Tombol S")
+                                {
+                                    Kondisi = State.Berdiri;
+                                    Console.WriteLine("Kondisi sekarang sedang : " + Kondisi);
+                                    Console.WriteLine("Tombol arah bawah ditekan");
+                                }
+                                else if(Perintah == "Tombol X")
+                                {
+                                    Kondisi = State.Jongkok;
+                                    Console.WriteLine("Kondisi sekarang sedang : " + Kondisi);
+                                }
+                            }
+                        }
+                        else if (Perintah == "Tombol S")
+                        {
+                            Kondisi = State.Jongkok;
+                            Console.WriteLine("kondisi sekarang sedang :" + Kondisi);
+                        }
+                    }
+
+                }
+            }
+        }
     }
 }
