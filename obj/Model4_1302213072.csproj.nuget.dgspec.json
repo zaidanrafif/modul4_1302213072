@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Model4_1302213072\\Model4_1302213072.csproj": {}
+    "E:\\Model4_1302213072\\modul4_1302213072\\Model4_1302213072.csproj": {}
   },
   "projects": {
-    "E:\\Model4_1302213072\\Model4_1302213072.csproj": {
+    "E:\\Model4_1302213072\\modul4_1302213072\\Model4_1302213072.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Model4_1302213072\\Model4_1302213072.csproj",
+        "projectUniqueName": "E:\\Model4_1302213072\\modul4_1302213072\\Model4_1302213072.csproj",
         "projectName": "Model4_1302213072",
-        "projectPath": "E:\\Model4_1302213072\\Model4_1302213072.csproj",
+        "projectPath": "E:\\Model4_1302213072\\modul4_1302213072\\Model4_1302213072.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "E:\\Model4_1302213072\\obj\\",
+        "outputPath": "E:\\Model4_1302213072\\modul4_1302213072\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
